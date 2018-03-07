@@ -1,0 +1,26 @@
+body {
+   background-color: lightgrey;
+}
+   h1 {
+    color: hotpink;
+    background: lightblue;
+    size: 50px;
+    }
+    
+    h2 {
+        color: violet;
+        background: pink;
+        size: 30px;
+    }
+    .special {
+        text-decoration:underline;
+        background:yellow;
+    }
+    #first {
+        color:black;
+        text-decoration: underline overline;
+    }
+    h2 span {
+        font-style: italic;
+        text-decoration: line-through;
+    }
